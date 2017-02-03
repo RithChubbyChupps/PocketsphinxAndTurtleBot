@@ -1,0 +1,8 @@
+prefix=/home/rithvik/catkin_ws/install
+
+Name: xv_11_laser_driver
+Description: Description of xv_11_laser_driver
+Version: 0.2.2
+Cflags: -I/home/rithvik/catkin_ws/install/include
+Libs: -L/home/rithvik/catkin_ws/install/lib 
+Requires: 
